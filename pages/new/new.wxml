@@ -1,0 +1,3 @@
+<!--pages/new/new.wxml-->
+<import src="/shared/form.wxml"/>
+<template is="form"/>
